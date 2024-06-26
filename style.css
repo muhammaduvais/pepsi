@@ -226,9 +226,7 @@
     font-size: 34px;
     position: absolute;
     right: 256px;
-    /* display: flex; */
-    /* align-items: center; */
-    /* justify-content: center; */
+   
     font-style: Sans-serif;
 }
      
@@ -283,10 +281,6 @@
     width: 100vh;
     height: 25vh;
     display: flex;
-    
-    /* justify-content: center; */
-    /* align-items: center; */
-    /* align-content: center;  */
     background-color:blue, 9, 240;
     z-index: 999;
     margin-top: 0;
