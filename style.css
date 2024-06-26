@@ -1,0 +1,270 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.header{
+    height: 90px;
+    width: 100%;
+    background-color: blue;
+    position: relative;
+    font-style:Sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+    position: fixed;
+    z-index: 1;
+
+}
+.body{
+    margin: 0;
+}
+.logo{
+    float: left;
+    height: 60px;
+    width: 60px;
+    background-image: url(https://abinsubash.github.io/pepsiResponcive/image/pepsilogo.png);
+    background-size: cover;
+    margin-left: 38px;
+    margin-top: 16px;
+    position: absolute;
+}
+.text{
+    float: left;
+    color: antiquewhite;
+    width: 153px;
+    height: 27px;
+    margin-left: 161px;
+    margin-top: 36px;
+    font-weight: 900;
+    font-size: 13px;
+}
+.text:hover{
+    color: black;
+}
+  .contact{
+        float: left;
+    color: antiquewhite;
+    width: 137px;
+    height: 26px;
+    margin-left: 33px;
+    margin-top: 37px;
+    font-weight: 950;
+    font-size: 13px;
+}
+.contact:hover{
+    color: black;
+}
+
+.buy{
+   
+    float: right;
+    color: antiquewhite;
+    width: 213px;
+    height: 28px;
+    margin-right: 54px;
+    margin-top: 27px;
+    font-weight: 900;
+    font-size: 13px;
+    border: solid;
+    border-radius: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buy:hover{
+    color: black;
+}
+.video1{
+   width: 100%;  
+    
+}
+.image1{
+    width: 100%;
+    
+    position: relative;
+    /* margin: -4px; */
+    
+    
+}
+ 
+.shop{
+   
+    background-color: white;
+    color: black;
+    height: 115px;
+    width: 457px;
+    margin-left: 197px;
+    margin-top: 239px;
+    font-weight: 900;
+    font-size: 48px;
+    
+    position: absolute;
+    top: 64%;
+    left: 22%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.shop:hover{
+    background-color: blue;
+}
+.sho:hover{
+    color: white;
+    
+
+}
+.image2{
+    width: 100%;
+    position: relative;
+    background-image: url(https://www.pepsi.com/en-us/refresh082123/images/wild-cherry/wc-tvc-bg-tablet-vert@2x.png);
+    background-size: cover;
+    height: 1146px;
+    top: -4px;
+
+}
+.textget{
+     
+    height: 209px;
+    width: 1200px;
+    background-image: url(https://www.pepsi.com/en-us/refresh082123/images/wild-cherry/get-wild-with-pepsi-wild-cherry-tab-horz@3x.png);
+    background-size: cover;
+    position: absolute;
+    left: 161px;
+    top: 46px;
+ }
+
+ .man-image{
+    height: 400px;
+    width: 712px;
+    background-image: url(https://pepsi.com/en-us/refresh082123/images/wild-cherry/231214-07-pepsi-1094-v-4-16-x-9@3x.png);
+    background-size: cover;
+    position: absolute;
+    left: 37px;
+    top: 294px;
+}
+
+ .bottles{
+    
+    height: 400px;
+    width: 712px;
+    background-image: url(https://www.pepsi.com/en-us/refresh082123/images/wild-cherry/15-20-52-13-v-4-16-x-9@3x.png);
+    background-size: cover;
+    position: absolute;
+    right: 38px;
+    top: 295px;
+  
+}
+.text-fan{
+    background-color: white;
+    height: 84px;
+    width: 486px;
+    margin-left: 197px;
+    margin-top: 239px;
+    position: absolute;
+    top: 516px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.text-fan:hover{
+    background-color: blue;
+}
+.one{
+    font-size: 40px;
+    font-weight: 900;
+}
+.one:hover{
+    color: white;
+
+    background-color: blue;
+}
+.nursery{
+
+    background-color: white;
+    color: black;
+    height: 82px;
+    width: 487px;
+    font-weight: 900;
+    font-size: 40px;
+
+    position: absolute;
+    top: 756px;
+    right: 149px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.nursery:hover{
+    background-color: blue;
+}
+.nurs:hover{
+    color: white;
+    background-color: blue;
+
+}
+.bfor-footr{
+    width: 100%;
+    height: 356px;
+    background-color: black;
+    position: relative;
+    top: -4px;
+}
+.text-stay{
+    
+    background-color: black;
+    color: blue;
+    height: 43px;
+    width: 970px;
+    font-size: 34px;
+    position: absolute;
+    right: 256px;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    font-style: Sans-serif;
+}
+     
+     
+
+.scrshort img{
+
+        height: 223px;
+    width: 1366px;
+    position: absolute;
+    right: 74px;
+    top: 84px;
+     
+}
+
+.imgss{
+        width: 100%;
+}
+.video2{
+    width: 100%;
+}
+.footer{
+    width: 100%;
+    height: 247px;
+    background-color: blue;
+    margin-top: -7px;
+    padding-left: 100px;
+    padding-top: 51px;
+}
+
+.pep img{
+    width: 98px;
+    height: 101px;
+    margin-left: -63px;
+    margin-top: 47px;
+    border-radius: 50%;
+}
+
+
